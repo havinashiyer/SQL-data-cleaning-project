@@ -1,2 +1,4 @@
 # SQL-data-cleaning-project
-basic data cleaning to understand and demonstrate cleaning of data using sql 
+software used - SSMS sql server management studio microsoft
+data from - kaggle
+reference - @alextheanalyst
